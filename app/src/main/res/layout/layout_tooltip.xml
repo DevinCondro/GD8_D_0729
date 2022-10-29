@@ -76,7 +76,7 @@
                     android:id="@+id/tvAlamat"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="OSM"
+                    android:text="GD8_D_0729"
                     android:textColor="@color/black"/>
 
             </LinearLayout>
